@@ -10,5 +10,5 @@ function xapk() {
 
 function uploud() {
     alert('Uploud your APK');
-    window.location.href='';
+    window.location.href='https://forms.gle/BQyKdhuminPLjQPXA';
 }
