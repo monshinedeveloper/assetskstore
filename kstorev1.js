@@ -15,5 +15,5 @@ function uploud() {
 
 function aab() {
     alert('For install aab pls install first the aab converter XAPK');
-    window.location.href='';
+    window.location.href='https://drive.google.com/drive/folders/10938kx_dC4H8qv1oPpeHkX9eDqF9z5FK';
 }
