@@ -12,3 +12,8 @@ function uploud() {
     alert('Uploud your APK');
     window.location.href='https://forms.gle/BQyKdhuminPLjQPXA';
 }
+
+function aab() {
+    alert('For install aab pls install first the aab converter XAPK');
+    window.location.href='';
+}
