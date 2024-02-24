@@ -8,7 +8,7 @@ function xapk() {
     window.location.href='https://drive.google.com/drive/folders/1-y8oAlalZqOGVSCvNK1vfYITIhB3CMEZ';
 }
 
-function uploud() {
+function upload() {
     alert('Uploud your APK');
     window.location.href='https://forms.gle/nsb6EYGr2B97bLpFA';
 }
