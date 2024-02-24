@@ -10,7 +10,7 @@ function xapk() {
 
 function uploud() {
     alert('Uploud your APK');
-    window.location.href='https://forms.gle/BQyKdhuminPLjQPXA';
+    window.location.href='https://forms.gle/nsb6EYGr2B97bLpFA';
 }
 
 function aab() {
