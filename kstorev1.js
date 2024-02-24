@@ -7,3 +7,8 @@ function xapk() {
     alert('Download first the APK installer from the APK site');
     window.location.href='https://drive.google.com/drive/folders/1-y8oAlalZqOGVSCvNK1vfYITIhB3CMEZ';
 }
+
+function uploud() {
+    alert('Uploud your APK');
+    window.location.href='';
+}
